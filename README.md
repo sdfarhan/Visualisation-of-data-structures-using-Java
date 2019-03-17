@@ -11,6 +11,11 @@ a. To provide the visualization for arrays, queues, stack etc.
 b. To provide with certain algorithm in which user can enter their own set of data to processing.
 c. To not only use this for inserting but for deleting them also.
 
-Hoo to run this app
+How to run this app!!!!!!!
+Just download the Visualization.jar file and run it. It will run if you have installed Java on your local machine.
+
+
+Actual code of this prject is in code/src directory.
+The main file of application is Main.java
 
 
