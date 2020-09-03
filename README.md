@@ -15,7 +15,7 @@ How to run this app!!!!!!!
 Just download the Visualization.jar file and run it. It will run if you have installed Java on your local machine.
 
 
-Actual code of this prject is in code/src directory.
+Actual code of this project is in code/src directory.
 The main file of application is Main.java
 
 
